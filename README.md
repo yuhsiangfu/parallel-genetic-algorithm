@@ -20,7 +20,19 @@ For TSP datasets:
   `rate_mutation = 0.05` <br>
 
 The results of the above parameters of "serial-ga" and "parallel-ga", please see the below information.
->
+> -graph: att48_d <br>
+> 
+> -serial <br>
+> --final evo-num:  1 <br>
+> --final evo-fit:  49926 <br>
+> --final evo-path: [44, 34, 25, 3, 9, 23, 41, 1, 28, 4, 47, 38, 31, 20, 24, 22, 40, 21, 2, 0, 15, 33, 13, 12, 46, 32, 7, 8, 10, 11, 35, 16, 27, 30, 39, 14, 18, 29, 19, 45, 43, 17, 37, 6, 5, 26, 42, 36] <br>
+> -396.6317 sec. <br>
+> 
+> -parallel <br>
+> --final evo-num:  1 <br>
+> --final evo-fit:  43838 <br>
+> --final evo-path: [44, 34, 23, 25, 3, 9, 41, 1, 28, 4, 47, 38, 31, 46, 20, 19, 11, 39, 12, 15, 40, 33, 24, 22, 13, 10, 2, 21, 7, 30, 37, 14, 0, 8, 45, 32, 35, 6, 43, 17, 29, 27, 26, 5, 36, 18, 16, 42] <br>
+> -234.0715 sec. <br>
  
 ## Notification
 1. You are free to use the codes for educational purposes.
